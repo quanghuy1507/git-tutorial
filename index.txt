@@ -14,3 +14,5 @@
 -   git checkout -b + tên branch: tạo branch mới không ảnh hưởng đến branch khác
 -   git checkout + tên branch: trở về branch muốn làm việc
 -   git merge + tên branch: Đưa commit từ branch này sang branch khác
+-   git pull: 
+-   Tạo file .gitignore: chứa các file ko muốn đưa lên git
