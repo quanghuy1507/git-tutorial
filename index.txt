@@ -13,3 +13,4 @@
 -   git branch: show tất cả các branch đang có
 -   git checkout -b + tên branch: tạo branch mới không ảnh hưởng đến branch khác
 -   git checkout + tên branch: trở về branch muốn làm việc
+-   git merge + tên branch: Đưa commit từ branch này sang branch khác
