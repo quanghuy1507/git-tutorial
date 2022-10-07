@@ -1,0 +1,11 @@
+-   git config --global user.name 'Huy'
+-   git config --global user.email 'huytranquang.150701@gmail.com'
+
+-   git init: Khởi tạo
+-   git status: Kiểm tra trạng thái của file untracked file
+
+-   thư mục đang làm việc                           Staging Area                            Commmited
+    index.html              -->git add + file       index.html      -->git commit -m""       index.html
+                            -->git add .
+
+-   git log: Hiện ra các commit
